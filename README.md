@@ -47,5 +47,5 @@ About me:
 
 ## GitHub stats
   
-| <a href="https://github.com/zhitkovkostya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhitkovkostya&include_all_commits=true&hide_border=true" alt="@zhitkovkostya GitHub stats" /></a> | <a href="https://github.com/zhitkovkostya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/zhitkovkostya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhitkovkostya&include_all_commits=true&hide_border=true" alt="@zhitkovkostya GitHub stats" /></a> | <a href="https://github.com/zhitkovkostya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
