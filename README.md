@@ -22,7 +22,6 @@ About me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" alt="Gatsby" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="50" height="50"/>
@@ -47,5 +46,5 @@ About me:
 
 ## GitHub stats
   
-| <a href="https://github.com/zhitkovkostya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhitkovkostya&include_all_commits=true&hide_border=true" alt="@zhitkovkostya GitHub stats" /></a> | <a href="https://github.com/zhitkovkostya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhitkovkostya&show_icons=false&count_private=true&include_all_commits=true&hide_border=true&line_height=20)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhitkovkostya&hide=python&layout=compact&hide_border=true)
