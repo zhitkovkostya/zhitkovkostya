@@ -45,6 +45,7 @@ About me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50"/>
 
 ## GitHub stats
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhitkovkostya&show_icons=false&count_private=true&include_all_commits=true&hide_border=true&line_height=20)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhitkovkostya&hide=python&layout=compact&hide_border=true)
+
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhitkovkostya&show_icons=false&count_private=true&include_all_commits=true&hide_border=true&line_height=20) | ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhitkovkostya&hide=python&layout=compact&hide_border=true) |
+| ------------- | ------------- |
