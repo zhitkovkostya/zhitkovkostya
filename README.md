@@ -8,7 +8,7 @@ About me:
 - 🎓 Masters degree in information security at [ITMO University](https://en.itmo.ru)
 - 👨‍💻 Frontend Developer at [GetIT GmbH](https://myget-it.com)
 - ⭐️ Portfolio: [zhitkov.me](https://zhitkov.me)
-- 📫 How to reach me: [Telegram](https://t.me/zhitkovkostya), [LinkedIn](https://www.linkedin.com/in/zhitkovkostya)
+- 📫 How to reach me: [Telegram](https://t.me/zhitkov), [LinkedIn](https://www.linkedin.com/in/zhitkovkostya)
 - 🚀 Let me know if you'd like to collaborate
 - 📗 Blogger: check my recent articles on [Medium](https://medium.com/@zhitkovkostya):
 
