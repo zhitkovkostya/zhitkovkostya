@@ -1,7 +1,7 @@
 # Konstantin Zhitkov - @zhitkovkostya
 Hi there! I am Konstantin 👋
 
-I am a passionate software engineer and in love with learning new skills! My sphere of interests is mostly related to frontend development. Right now I am working on an open source component library written in React. Apart from that I am fascinated by watching movies from Criterion Collection, reading books and travelling around the world.
+I am a passionate software engineer and in love with learning new skills! My sphere of interests is mostly related to frontend development. Right now I am working on an open source component library written in React and TypeScript. Apart from that I am fascinated by watching movies from Criterion Collection, reading books and travelling around the world.
 
 About me:
 
