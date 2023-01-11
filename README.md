@@ -12,9 +12,9 @@ About me:
 - 🚀 Let me know if you'd like to collaborate
 - 📗 Blogger: check my recent articles on [Medium](https://medium.com/@zhitkovkostya):
 
-<a target="_blank" href="https://medium.com/@zhitkovkostya/building-a-table-with-sticky-header-in-pure-javascript-77f42d59f732"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/0" alt="Building a Table with Sticky Header in Pure JavaScript">
+<a target="_blank" href="https://medium.com/@zhitkovkostya/building-a-table-with-sticky-header-in-pure-javascript-77f42d59f740"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/0" alt="Building a Table with Sticky Header in Pure JavaScript"></a>
   
-<a target="_blank" href="https://medium.com/@zhitkovkostya/setting-the-default-npm-package-version-d8809885a1bf"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/1" alt="Setting the Default NPM Package Version">
+<a target="_blank" href="https://medium.com/@zhitkovkostya/setting-the-default-npm-package-version-d8809885a1bf"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/1" alt="Setting the Default NPM Package Version"></a>
   
 ## Skills
 ### Web Development
