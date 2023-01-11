@@ -6,11 +6,11 @@ I am a passionate software engineer and in love with learning new skills! My sph
 About me:
 
 - 🎓 Masters degree in information security at [ITMO University](https://en.itmo.ru)
-- 👨‍💻 Frontend Developer at [SoftWise](https://softwise.ru/)
+- 👨‍💻 Senior frontend developer at [SoftWise](https://softwise.ru/) (6+ years of experience)
 - ⭐️ Portfolio: [zhitkov.me](https://zhitkov.me)
 - 📫 How to reach me: [Telegram](https://t.me/zhitkov), [LinkedIn](https://www.linkedin.com/in/zhitkovkostya)
 - 🚀 Let me know if you'd like to collaborate
-- 📗 Blogger: check my recent article on [Medium](https://medium.com/@zhitkovkostya):
+- 📗 Blogger: check my recent articles on [Medium](https://medium.com/@zhitkovkostya):
 
 <a target="_blank" href="https://medium.com/@zhitkovkostya/building-a-table-with-sticky-header-in-pure-javascript-77f42d59f740"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/0" alt="Building a Table with Sticky Header in Pure JavaScript">
   
