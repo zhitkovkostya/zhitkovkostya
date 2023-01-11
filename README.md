@@ -5,8 +5,8 @@ I am a passionate software engineer and in love with learning new skills! My sph
 
 About me:
 
-- 🎓 Masters degree in information security at [ITMO University](https://en.itmo.ru)
 - 👨‍💻 Senior frontend developer at [SoftWise](https://softwise.ru/) (6+ years of experience)
+- 🎓 Masters degree in information security at [ITMO University](https://en.itmo.ru)
 - ⭐️ Portfolio: [zhitkov.me](https://zhitkov.me)
 - 📫 How to reach me: [Telegram](https://t.me/zhitkov), [LinkedIn](https://www.linkedin.com/in/zhitkovkostya)
 - 🚀 Let me know if you'd like to collaborate
