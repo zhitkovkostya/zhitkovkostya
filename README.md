@@ -12,11 +12,11 @@ About me:
 - 🚀 Let me know if you'd like to collaborate
 - 📗 Blogger: check my recent articles on [Medium](https://medium.com/@zhitkovkostya):
 
-<a target="_blank" href="https://medium.com/@zhitkovkostya/building-a-table-with-sticky-header-in-pure-javascript-77f42d59f740"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/0" alt="Building a Table with Sticky Header in Pure JavaScript"></a>
-  
-<a target="_blank" href="https://medium.com/@zhitkovkostya/setting-the-default-npm-package-version-d8809885a1bf"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/1" alt="Setting the Default NPM Package Version"></a>
+| <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/0"><img style="min-height: 100px;" src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/0" alt="Building a Table with Sticky Header in Pure JavaScript"></a> | <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/1" alt="Setting the Default NPM Package Version"></a> |
+| ------------- | ------------- |
   
 ## Skills
+
 ### Web Development
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="32" height="32"/><!--
@@ -47,9 +47,3 @@ About me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" title="MSSQL" width="32" height="32"/><!--
 --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="32" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="32" height="32"/>
-
-## GitHub stats
-
-
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhitkovkostya&show_icons=false&count_private=true&include_all_commits=true&hide_border=true&line_height=20) | ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhitkovkostya&hide=python&layout=compact&hide_border=true) |
-| ------------- | ------------- |
