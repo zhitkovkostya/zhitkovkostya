@@ -7,10 +7,9 @@ About me:
 
 - 👨‍💻 Senior frontend developer at [SoftWise](https://softwise.ru/) (6+ years of experience)
 - 🎓 Masters degree in information security at [ITMO University](https://en.itmo.ru)
-- ⭐️ Portfolio: [zhitkov.me](https://zhitkov.me)
-- 📫 How to reach me: [Telegram](https://t.me/zhitkov), [LinkedIn](https://www.linkedin.com/in/zhitkovkostya)
-- 🚀 Let me know if you'd like to collaborate
-- 📗 Blogger: check my recent articles on [Medium](https://medium.com/@zhitkovkostya):
+- ⭐️ Portfolio: [zhitkov.me](https://zhitkov.netlify.app)
+- 🚀 Let me know if you'd like to collaborate: [Telegram](https://t.me/zhitkov), [LinkedIn](https://www.linkedin.com/in/zhitkovkostya)
+- 📗 Blog: check my recent articles on [Medium](https://medium.com/@zhitkovkostya):
 
 | <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/0"><img style="min-height: 100px;" src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/0" alt="Building a Table with Sticky Header in Pure JavaScript"></a> | <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/1" alt="Setting the Default NPM Package Version"></a> |
 | ------------- | ------------- |
@@ -47,3 +46,4 @@ About me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="32" height="32"/><!--
 --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="32" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="32" height="32"/>
+
