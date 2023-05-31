@@ -8,11 +8,8 @@ About me:
 - 👨‍💻 Senior frontend developer at [SoftWise](https://softwise.ru/) (6+ years of experience)
 - 🎓 Masters degree in information security at [ITMO University](https://en.itmo.ru)
 - ⭐️ Portfolio: [zhitkov.me](https://zhitkov.netlify.app)
+- 📗 Blog: check my recent articles on [Medium](https://medium.com/@zhitkovkostya)
 - 🚀 Let me know if you'd like to collaborate: [Telegram](https://t.me/zhitkov), [LinkedIn](https://www.linkedin.com/in/zhitkovkostya)
-- 📗 Blog: check my recent articles on [Medium](https://medium.com/@zhitkovkostya):
-
-| <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/0"><img style="min-height: 100px;" src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/0" alt="Building a Table with Sticky Header in Pure JavaScript"></a> | <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zhitkovkostya/1" alt="Setting the Default NPM Package Version"></a> |
-| ------------- | ------------- |
   
 ## Skills
 
