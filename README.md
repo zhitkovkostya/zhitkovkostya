@@ -1,7 +1,7 @@
 # Konstantin Zhitkov - @zhitkovkostya
 Hi there! I am Konstantin 👋
 
-I am a frontend engineer with a fullstack background. Right now I'm building my personal project called Viberoom Radio with React and TypeScript. Apart from that I am fascinated by watching movies from Criterion Collection, cruising around the city on my longboard and exploring local bars with my friends.
+I am a frontend engineer with a fullstack background. Right now I'm building my personal project called [Viberoom Radio](https://github.com/viberoom-radio) with React and TypeScript. Apart from that I am fascinated by watching movies from Criterion Collection, cruising around the city on my longboard and exploring local bars with my friends.
 
 About me:
 
